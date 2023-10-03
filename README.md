@@ -1,14 +1,16 @@
 
 
 <h1 align="center">Hi 👋, I'm Niranjana Devi Arumugasamy</h1>
-<h3 align="center">A passionate Full Stack Software Developer pursuing Msc Advanced Computer Science</h3>
+<h3 align="center">A passionate Software Developer completed Msc Advanced Computer Science from University of Leicester</h3>
 <p align="left"> <img alight="right" src="https://user-images.githubusercontent.com/81975567/213871187-5f4af020-4be1-4f17-baa2-0a0b3e2909c2.gif" alt="niranjana405" /> </p>
 
-- 🔭 I’m currently working on **Final Project-Smart Career Path Recommendation Project**
+- 🔭 Final year MSc Dissertation Project **-Smart Career Path Recommendation Project**
 
-- 🌱 I’m currently learning **React Js, Angular, Spring**
+- 🌱 Technologies Used **Java,Javascript,React Js,HTML, CSS, MySQL, Spring**
 
-- 💬 Ask me about **Java, Spring, MySql**
+- 🌱 I’m currently learning **MongoDB, Angular, SCRUM**
+
+- 💬 Ask me about **Java,JavaScript Spring, MySql**
 
 - 📫 How to reach me **niranjana405@gmail.com**
 
