@@ -5,10 +5,11 @@
 <p align="left"> <img alight="right" src="https://user-images.githubusercontent.com/81975567/213871187-5f4af020-4be1-4f17-baa2-0a0b3e2909c2.gif" alt="niranjana405" /> </p>
 
 - 🔭 Final year MSc Dissertation Project **-Smart Career Path Recommendation Project**
+- 🔭 Education **-MSc Advanced Computer Science**
 
 - 🌱 Skills **Azure Services: Azure Data Factory, Azure SQL Database, Azure Data Lake Storage, Azure Databricks,Programming & Scripting Languages: Python(PySpark), Java**
 
-- 🌱 I’m currently learning **MongoDB, Angular, SCRUM**
+- 🌱 I’m currently learning **CosmosDB, Azure AI services, SCRUM**
 
 - 💬 Ask me about **Azure Services**
 
