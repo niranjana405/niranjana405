@@ -1,16 +1,16 @@
 
 
-<h1 align="center">Hi 👋, I'm Niranjana Devi Arumugasamy</h1>
-<h3 align="center">A passionate Software Developer completed Msc Advanced Computer Science from University of Leicester</h3>
+<h1 align="center">Hi 👋, I'm Niranjana Devi</h1>
+<h3 align="center">I am Azure Data Engineer with 2 years of experience in designing, developing, and maintaining data pipelines on Azure platform. </h3>
 <p align="left"> <img alight="right" src="https://user-images.githubusercontent.com/81975567/213871187-5f4af020-4be1-4f17-baa2-0a0b3e2909c2.gif" alt="niranjana405" /> </p>
 
 - 🔭 Final year MSc Dissertation Project **-Smart Career Path Recommendation Project**
 
-- 🌱 Technologies Used **Java,Javascript,React Js,HTML, CSS, MySQL, Spring**
+- 🌱 Skills **Azure Services: Azure Data Factory, Azure SQL Database, Azure Data Lake Storage, Azure Databricks,Programming & Scripting Languages: Python(PySpark), Java**
 
 - 🌱 I’m currently learning **MongoDB, Angular, SCRUM**
 
-- 💬 Ask me about **Java,JavaScript Spring, MySql**
+- 💬 Ask me about **Azure Services**
 
 - 📫 How to reach me **niranjana405@gmail.com**
 
