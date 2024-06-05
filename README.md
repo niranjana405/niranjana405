@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Niranjana Devi</h1>
-<h3 align="center">I am Azure Data Engineer with 2 years of experience in designing, developing, and maintaining data pipelines on Azure platform. </h3>
+<h3 align="center">I am Azure Data Engineer with 3+ years of experience in designing, developing, and maintaining data pipelines on Azure platform. </h3>
 <p align="left"> <img alight="right" src="https://user-images.githubusercontent.com/81975567/213871187-5f4af020-4be1-4f17-baa2-0a0b3e2909c2.gif" alt="niranjana405" /> </p>
 
 - 🔭 Final year MSc Dissertation Project **-Smart Career Path Recommendation Project**
