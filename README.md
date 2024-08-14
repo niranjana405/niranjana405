@@ -1,13 +1,21 @@
 
 
 <h1 align="center">Hi 👋, I'm Niranjana Devi</h1>
-<h3 align="center">I am Azure Data Engineer with 3+ years of experience in designing, developing, and maintaining data pipelines on Azure platform. </h3>
+<h3 align="center">I am Results-driven data analyst with a Master's in Advanced Computer Science from the University of Leicester, specializing in transforming complex data into actionable insights. Proven expertise in the banking industry, leveraging Power BI to create dynamic visualizations and interactive dashboards. Skilled in data modeling, DAX, SQL, and with a foundational understanding of Azure Services. Committed to delivering data-driven solutions that drive business growth and efficiency. </h3>
 <p align="left"> <img alight="right" src="https://user-images.githubusercontent.com/81975567/213871187-5f4af020-4be1-4f17-baa2-0a0b3e2909c2.gif" alt="niranjana405" /> </p>
 
 - 🔭 Final year MSc Dissertation Project **-Smart Career Path Recommendation Project**
 - 🔭 Education **-MSc Advanced Computer Science**
 
-- 🌱 Skills **Azure Services: Azure Data Factory, Azure SQL Database, Azure Data Lake Storage, Azure Databricks,Programming & Scripting Languages: Python(PySpark), Java**
+- 🌱 Skills
+-  **Power BI: DAX(Calculated Columns & Measures), Power Query, Data Modeling, Visualization, Data Integration **
+Microsoft Excel: VLOOKUP, XLOOKUP, Index, Match,Conditional Formatting, Pivot Table, Pivot Chart
+Python: Data Types, Functions, Object-Oriented Programming, Debugging
+SQL: DataType,DML, DQL, Joins,Aggregate Functions, SubQuery, Index, Views, Window Functions, Stored Procedures
+Database Management System: MySQL, PostgreSQL 
+Data Engineering: Data Modeling, Data Cleaning, Data Visualization, ETL/ELT Processes, Data Warehousing, OLAP
+Fundamentals of Azure Services: Azure Data Factory, Azure SQL Database, Azure Synapse Analytics, Azure Data Lake
+Tools: Git, GitHub, PyCharm, VS Code, Jupyter Notebook, Eclipse 
 
 - 🌱 I’m currently learning **CosmosDB, Azure AI services, SCRUM**
 
